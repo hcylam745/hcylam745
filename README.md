@@ -1,4 +1,7 @@
 ### Hi there 👋
+* I'm currently working on a personal website, with subdirectories for various applications I've developed.
+* I'm currently learning Tensorflow by developing a Deep Q Network to play Snake.
+
 
 <!--
 **hcylam745/hcylam745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
