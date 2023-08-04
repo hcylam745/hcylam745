@@ -1,6 +1,6 @@
 ### Hi there 👋
-* I'm currently working on a personal website, with subdirectories for various applications I've developed.
 * I'm currently learning Tensorflow by developing a Deep Q Network to play Snake.
+* I'm currently working on an app to help choose what to eat for dinner.
 
 
 <!--
