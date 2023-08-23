@@ -1,6 +1,7 @@
 ### Hi there 👋
 * I'm currently learning Tensorflow by developing a Deep Q Network to play Snake.
 * I'm currently working on an app to help choose what to eat for dinner.
+* I'm currently working on improving the wordle clone hosted on my personal website.
 
 
 <!--
