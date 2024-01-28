@@ -2,8 +2,6 @@
 * [Check out my personal website!](https://hcylam745.github.io/#/)
 * I'm currently working on a system to automatically detect and display free seats in the HKUST library.
 * I'm currently learning Tensorflow by developing a Deep Q Network to play Snake.
-* I'm currently working improving the app to help choose what to eat for dinner.
-
 
 <!--
 **hcylam745/hcylam745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
